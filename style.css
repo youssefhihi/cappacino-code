@@ -60,10 +60,14 @@ nav img{
     display: block;
     margin: auto;
     transition: 0.75s;
+   
+
 }
 .menu_link ul li:hover::after{
     width: 100%;
+    
 }
+
   /*_________________HOME________________*/
 .text-home{
     width: 90%;
@@ -482,7 +486,7 @@ margin-top: 0%;
     
 }
 
-/*_____________________map(home)____________*/
+
 
 
 
@@ -510,7 +514,7 @@ margin-top: 0%;
    
   
 }
-
+/*______________________contact(page)_____________________*/
 
 .contact_page{
     top:0;
@@ -520,17 +524,13 @@ margin-top: 0%;
     background-image: url(images/img-contact.webp);
     background-size: cover;
 }
-.contact_page h1{
-    color: #FEE6E6;
-    text-align: center;
-    transform: translateY(40px);
-    font-size: 55px;   
-}
+
 .contact_page p{
     color: #fff;
     font-size: 50px;
     text-align: center;
     margin-top: 0;
+
 }
 .contact_page input {
     width: 35%;
@@ -566,7 +566,7 @@ margin-top: 0%;
     color: #fff;
   }
   
-/*______________________contact(page)_____________________*/
+
   .contact_page button {
     display: inline-block;
    
@@ -598,20 +598,3 @@ margin-top: 0%;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*CCCCCCCCCCCCCCCCCCCCCCCOOOOOOOOOOOOOOOOOOOONNNNNNNNNNNNNNNNNNNNNNNNTTTTTTTTTTTTTTTTTTTTTTAAAAAAAAAAAAAAAAAAAAAAAACCCCCCCCCCCCCCCCCCCCTTTTTTTTTTTTTTTTTTTTTTTTT*/
-
-
- 
